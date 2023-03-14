@@ -5,7 +5,7 @@ SELECT * FROM  DEPARTMENTS;
 SELECT FIRST_NAME from EMPLOYEES ;
 --get only first name from employees table
 
---display city names
+--displaty city names
 SELECT CITY from LOCATIONS;
 
 --get me first name ,last name and salary
@@ -16,7 +16,5 @@ SELECT STREET_ADDRESS , POSTAL_CODE FROM LOCATIONS;
 
 SELECT DISTINCT FIRST_NAME from  EMPLOYEES ;
 --remove duplicates
-
-
 
 
